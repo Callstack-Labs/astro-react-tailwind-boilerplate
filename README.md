@@ -1,7 +1,7 @@
 # Astro React + Tailwindcss boilerplate
 
 - ✅ Astro v5
-- ✅ Tailwindcss v3.4
+- ✅ Tailwindcss v4
 - ✅ React v19
 - ✅ TypeScript is implicitly supported by Astro
 

@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+/* this is how to customize tailwind styles  */
+@theme {
+  --color-new: #222;
+}
